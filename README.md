@@ -6,4 +6,8 @@ This is a Demo project to show case [Stream SDK](https://getstream.io/) usage wi
   It contains subfolder:
   - `commonMain` is for code that’s common for all targets.
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+Learn more about
+- [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+- ⭐ Stream's [Chat API](https://getstream.io/chat/)
+- 📱 Stream's [Video API](https://getstream.io/video/)
+- 🔔 Stream's [Activity Feeds](https://getstream.io/activity-feeds/)
